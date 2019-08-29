@@ -1,0 +1,15 @@
+ProductNumber|INT|NOT NULL
+ProductModelName|VARCHAR(254)|NOT Null
+BusinessUnitName|VARCHAR(254)
+LifecycleCode|VARCHAR(254)
+MktgCategoryName|VARCHAR(254)
+AnnouncementDate|DATE
+AvailabilityDate|DATE
+DiscontinuedDate|DATE
+EOLDate|DATE
+ProductGroupName|VARCHAR(254)
+ProductLineCode|VARCHAR(254)
+ProductLineName|VARCHAR(254)
+SupportModelName|VARCHAR(254)
+SupportProductSubcategoryName|VARCHAR(254)
+PRIMARY KEY (ProductNumber)
